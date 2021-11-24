@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/portfolio-0.0.1-SNAPSHOT.jar (1)
+web: java -Dserver.port=8080 -jar target/portfolio-0.0.1-SNAPSHOT.jar
