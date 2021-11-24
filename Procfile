@@ -1,1 +1,1 @@
-web: java -Dserver.port=8080 -jar target/portfolio-0.0.1-SNAPSHOT.jar
+web: java -Dserver.port=8080 -jar build/libs/portfolio-0.0.1-SNAPSHOT.jar
